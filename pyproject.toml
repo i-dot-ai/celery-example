@@ -11,6 +11,7 @@ celery = "^5.3.6"
 fastapi = "^0.109.0"
 redis = "^5.0.1"
 uvicorn = "^0.27.0"
+lorem = "^0.1.1"
 
 [tool.poetry.group.dev.dependencies]
 ruff = "^0.1.14"
